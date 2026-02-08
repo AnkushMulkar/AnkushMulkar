@@ -5,7 +5,7 @@
 I am a **Senior AI / NLP Technical Leader** with deep experience designing, building, and scaling **production-grade AI systems** in the United States technology ecosystem.  
 My work focuses on **agentic AI, multi-agent systems, and enterprise NLP platforms**, delivered with a **business-aware, investor-conscious, and execution-driven mindset**.
 
-I am not only an engineer — I take **end-to-end ownership**:
+I am not only an engineer  I take **end-to-end ownership**:
 - Architecture & system design
 - Production readiness & scalability
 - Cross-functional technical leadership
