@@ -3,9 +3,9 @@
 ## Executive Summary
 
 I am a **Senior AI / NLP Technical Leader** with deep experience designing, building, and scaling **production-grade AI systems** in the United States technology ecosystem.  
-My work focuses on **agentic AI, multi-agent systems, and enterprise NLP platforms**, delivered with a **business-aware, investor-conscious, and execution-driven mindset**.
+My work focuses on agentic AI, multi-agent systems, and enterprise NLP platforms, with full ownership of the end-to-end AI pipeline from user problem discovery and system design, through data, modeling, orchestration, deployment, and monitoring, delivered with a user-centric, business-aware, investor-conscious, and execution-driven mindset.**.
 
-I am not only an engineer  I take **end-to-end ownership**:
+I am not only an engineer,  I take **end-to-end ownership**:
 - Architecture & system design
 - Production readiness & scalability
 - Cross-functional technical leadership
@@ -18,7 +18,7 @@ This GitHub profile is curated to reflect **how real AI systems are built, gover
 ## Core Leadership & Technical Focus
 
 ### Agentic AI & Autonomous Systems
-- Multi-agent orchestration (planner / executor / verifier patterns)
+- Multi-agent orchestration (planner/executor / verifier patterns)
 - Tool-augmented reasoning (LLMs + APIs + workflows)
 - Long-term & short-term memory design
 - Human-in-the-loop & governance-aware agents
@@ -48,7 +48,7 @@ This GitHub profile is curated to reflect **how real AI systems are built, gover
 ### 1. Enterprise Agentic AI Orchestration Platform
 
 **Problem**
-Organizations required autonomous AI workflows capable of executing complex tasks while remaining auditable, reliable, and production-safe.
+Organizations require autonomous AI workflows capable of executing complex tasks while remaining auditable, reliable, and production-safe.
 
 **Ownership**
 - Technical lead and system architect
