@@ -1,5 +1,5 @@
 
-# 🇺🇸 AI & NLP Leader | Agentic AI • Multi‑Agent Systems • Applied LLMs
+# AI & NLP Leader | Agentic AI • Multi‑Agent Systems • Applied LLMs
 
 ## About Me
 I am an AI & NLP professional focused on **agentic AI systems, multi‑agent orchestration, and large‑scale language model applications**.  
