@@ -1,4 +1,6 @@
-# AI & NLP Technical Leadership | Agentic Systems | Production-Scale AI (Delivering for USA based projects)
+# AI & NLP Technical Leader | End-to-End AI Platforms | Agentic & Production-Scale Systems
+Designing, owning, and scaling production-grade AI systems from data ingestion to autonomous decision-making.
+(Delivering for USA-based projects)
 
 ## Executive Summary
 
