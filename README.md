@@ -1,4 +1,4 @@
-# AI & NLP Technical Leadership | Agentic Systems | Production-Scale AI (USA)
+# AI & NLP Technical Leadership | Agentic Systems | Production-Scale AI (Delivering for USA based projects)
 
 ## Executive Summary
 
