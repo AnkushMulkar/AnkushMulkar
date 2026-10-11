@@ -1,12 +1,12 @@
 # Ankush Mulkar
 
-### Engineering Manager · Founder · AI Systems Builder
+### Engineering Manager · AI Systems Builder
 
 I work at the intersection of engineering leadership, product development, and AI research.
 
 At [AllyNerds](https://allynerds.com/), I progressed from AI Engineer to Technical Lead to Engineering Manager, leading a five-person engineering team and helping turn product priorities into architecture, delivery, and production operations.
 
-I am also the founder of [Vertical Combinator](https://www.verticalcombinator.com/), a practical learning environment built around projects, feedback, and real-world problem solving. Alongside product work, I independently explore foundation models, efficient inference, and the engineering required to make AI systems useful.
+I am also the founder of [Vertical Combinator](https://www.verticalcombinator.com/), a practical learning environment built around projects, feedback, and real-world problem-solving. Alongside product work, I independently explore foundation models, efficient inference, and the engineering required to make AI systems useful.
 
 [Portfolio](https://www.ankushmulkar.com/) · [Projects](https://www.ankushmulkar.com/projects) · [LinkedIn](https://www.linkedin.com/in/ankushmulkar/)
 
