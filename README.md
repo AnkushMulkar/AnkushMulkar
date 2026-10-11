@@ -1,7 +1,7 @@
 # Ankush Mulkar
 
 <p align="left">
-  <strong>Engineering Manager · 0→1 Product Builder · AI Systems Architect</strong><br>
+  <strong>Engineering Manager · Product Builder · AI Systems Architect</strong><br>
   <em>Bridging technical systems design, product strategy, and high-performing engineering teams.</em>
 </p>
 
