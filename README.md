@@ -1,189 +1,99 @@
-# AI & NLP Technical Leader | End-to-End AI Platforms | Agentic & Production-Scale Systems
-Designing, owning, and scaling production-grade AI systems from data ingestion to autonomous decision-making.
-(Delivering for USA-based projects)
+# Ankush Mulkar
 
-## Executive Summary
+### Engineering Manager · Founder · AI Systems Builder
 
-I am a **Senior AI / NLP Technical Leader** with deep experience designing, building, and scaling **production-grade AI systems** in the United States technology ecosystem.  
-My work focuses on agentic AI, multi-agent systems, and enterprise NLP platforms, with full ownership of the end-to-end AI pipeline from user problem discovery and system design, through data, modeling, orchestration, deployment, and monitoring, delivered with a user-centric, business-aware, investor-conscious, and execution-driven mindset.**.
+I work at the intersection of engineering leadership, product development, and AI research.
 
-I am not only an engineer,  I also take **end-to-end ownership**:
-- Architecture & system design
-- Production readiness & scalability
-- Cross-functional technical leadership
-- Translating AI capability into business value
+At [AllyNerds](https://allynerds.com/), I progressed from AI Engineer to Technical Lead to Engineering Manager, leading a five-person engineering team and helping turn product priorities into architecture, delivery, and production operations.
 
+I am also the founder of [Vertical Combinator](https://www.verticalcombinator.com/), a practical learning environment built around projects, feedback, and real-world problem solving. Alongside product work, I independently explore foundation models, efficient inference, and the engineering required to make AI systems useful.
 
+[Portfolio](https://www.ankushmulkar.com/) · [Projects](https://www.ankushmulkar.com/projects) · [LinkedIn](https://www.linkedin.com/in/ankushmulkar/)
 
----
+## What I build and lead
 
-## Core Leadership & Technical Focus
+My work spans more than one part of the technology stack:
 
-### Agentic AI & Autonomous Systems
-- Multi-agent orchestration (planner/executor/verifier patterns)
-- Tool-augmented reasoning (LLMs + APIs + workflows)
-- Long-term & short-term memory design
-- Human-in-the-loop & governance-aware agents
+- **Engineering teams:** Planning, technical direction, hiring, coaching, performance responsibility, and cross-functional execution.
+- **Web products:** User workflows, frontend and backend delivery, APIs, databases, testing, security, and releases.
+- **AI systems:** LLM applications, RAG, agent workflows, NLP, evaluation, and model-related trade-offs.
+- **Cloud and operations:** AWS infrastructure, Docker, CI/CD, monitoring, reliability, performance, and cost.
+- **Product and business:** Roadmaps, user feedback, analytics, growth priorities, and translating ambiguous problems into work a team can deliver.
 
-### NLP & LLM Engineering
-- Retrieval-Augmented Generation (RAG)
-- Semantic search & knowledge systems
-- Entity extraction, classification, summarization
-- Model evaluation, alignment, and safety
+I care about the connections between these areas. A technically impressive feature is not enough if users cannot understand it, the team cannot maintain it, or the business cannot justify operating it.
 
-### Production & Scale
-- Cloud-native AI platforms (AWS / Azure / GCP)
-- MLOps, monitoring, and observability
-- Cost-aware inference and optimization
-- Security, compliance, and reliability
+## Work
 
-### Technical Leadership
-- End-to-end system ownership
-- Architecture standards & decision-making
-- Startup-to-enterprise technical evolution
-- Mentoring and technical direction
+### AllyNerds — engineering management and product delivery
 
----
+At AllyNerds, my scope grew from implementing AI capabilities to guiding engineering across the product. I work with the Founder and CEO on priorities and lead execution across application engineering, AI, data, infrastructure, deployment, and operations.
 
-## Flagship Projects (Representative, Production-Focused)
+My management work includes leading a five-person team, managing direct reports, participating in hiring and performance decisions, coaching engineers, and setting technical direction. I remain involved in architecture and delivery decisions, including trade-offs among speed, reliability, latency, security, and cost.
 
-### 1. Enterprise Agentic AI Orchestration Platform
+This is company work; its source code and internal documents are private. See the [public product](https://allynerds.com/) and my [portfolio overview](https://www.ankushmulkar.com/projects).
 
-**Problem**
-Organizations require autonomous AI workflows capable of executing complex tasks while remaining auditable, reliable, and production-safe.
+### Vertical Combinator — founder and product builder
 
-**Ownership**
-- Technical lead and system architect
-- Designed agent roles, orchestration logic, and production safeguards
+I founded [Vertical Combinator](https://www.verticalcombinator.com/) to connect learning with practical work. Its approach centres on building projects, receiving feedback, and developing the ability to solve real problems—not simply completing courses.
 
-**Architecture**
-- Multi-agent collaboration (planner, executor, validator, auditor)
-- Tool calling & external system integration
-- Persistent state and memory
-- Logging, evaluation, rollback, and observability
+My work brings together product direction, learning-path design, platform development, mentoring, and building a community around practical skills. It gives me a second perspective on engineering leadership: defining a problem, shaping a product, building the environment around it, and improving it as people use it.
 
-**Tech Stack**
-LangChain, LangGraph, CrewAI-style agent patterns, vector databases, cloud-native infrastructure
+### Independent foundation-model research
 
-**Outcome**
-- Production-ready autonomous workflows
-- Reduced manual operational effort
-- Designed for enterprise governance and scale
+I study how model and inference choices affect real applications. My areas of exploration include transformer architectures, fine-tuning and LoRA, quantization, benchmarking, serving approaches such as vLLM, and the trade-offs among quality, latency, memory, and cost.
 
----
+I treat this as **independent research and experimentation**, not as a claim of published academic research. The goal is to connect model-level understanding with better product and engineering decisions. My [portfolio](https://www.ankushmulkar.com/projects) has an overview of this work.
 
-### 2. End-to-End NLP & LLM Intelligence Platform
+## Public engineering projects
 
-**Problem**
-Need for a scalable NLP platform capable of powering search, analytics, and AI-assisted decision-making across large document corpora.
+### [AgentSentinel AI](https://github.com/AnkushMulkar/agent-sentinel-ai)
+**AI reliability, guardrails, and cost visibility — portfolio prototype**
 
-**Ownership**
-- Full lifecycle ownership: ingestion → modeling → deployment
-- Architecture and production performance optimization
+A full-stack exploration of what teams need to understand and control when using AI agents: execution traces, sensitive-data handling, failure visibility, and model usage costs. It combines a React/TypeScript interface with a Node.js API and demonstration data.
 
-**Capabilities**
-- Semantic indexing & RAG-based QA
-- Entity recognition and classification
-- Batch and real-time inference pipelines
+The engineering question behind it: **How do we make an agent workflow observable and accountable, rather than judging it only by its final answer?**
 
-**Production Focus**
-- Latency optimization
-- Cost control
-- Monitoring and drift detection
+### [PulseRevOps AI](https://github.com/AnkushMulkar/pulse-revops-ai)
+**B2B SaaS account health and revenue operations — portfolio prototype**
 
-**Outcome**
-- Reliable NLP services at scale
-- Platform-ready for business-critical workloads
+A product-focused exploration of account-risk signals, customer-success workflows, and revenue visibility. It combines a React/TypeScript interface with a Node.js API and sample account data.
 
----
+The product question behind it: **How can usage signals become an understandable decision and a timely action for a customer-success team?**
 
-### 3. AI Platform Foundations for Startups & Growth Teams
+These are self-built demonstrations of architecture and product thinking. Their current APIs use mock data; they are not presented here as live customer deployments.
 
-**Problem**
-Early-stage and scaling companies struggled with fragile AI architectures that could not survive growth or investor scrutiny.
+## How I think about engineering
 
-**Ownership**
-- Designed AI-first platform architectures
-- Defined technical roadmaps aligned with business milestones
+### Start with the outcome
 
-**Focus Areas**
-- Reducing technical debt
-- Cloud and data strategy
-- AI roadmap clarity for leadership and investors
+I want to know who has the problem, what decision or workflow needs to improve, and how we would recognize progress. Technology selection comes after that.
 
-**Outcome**
-- Startup-ready systems with enterprise trajectories
-- Investor-aligned technical narratives
+### Design the whole system
 
----
+A feature crosses boundaries: interface, service, data, AI model, infrastructure, security, and operations. I consider how those pieces interact and who will maintain them.
 
-## Core Frameworks & Technologies
+### Make trade-offs explicit
 
-### Agentic & Orchestration
-- LangChain – https://github.com/langchain-ai/langchain
-- CrewAI – https://github.com/joaomdmoura/crewai
-- AutoGen (Microsoft) – https://github.com/microsoft/autogen
-- LangGraph – https://github.com/langchain-ai/langgraph
+Engineering decisions affect delivery time, reliability, performance, cost, and future flexibility. I prefer to explain those trade-offs clearly to both engineers and business stakeholders.
 
-### AI / NLP Stack
-- Hugging Face Transformers – https://github.com/huggingface/transformers
-- PyTorch – https://github.com/pytorch/pytorch
-- TensorFlow / Keras – https://github.com/tensorflow/tensorflow
-- spaCy – https://github.com/explosion/spaCy
-- scikit-learn – https://github.com/scikit-learn/scikit-learn
+### Build a team that can keep improving the product
 
----
+Leadership is not only assigning work. It means giving people context, making priorities clear, reviewing decisions, coaching engineers, and creating space for feedback and iteration.
 
-## AI Industry & Investment Ecosystem (USA & Global)
+## Technical areas
 
-### Research & Industry Leaders
-- OpenAI – https://openai.com
-- Google DeepMind – https://deepmind.google
-- Microsoft AI – https://www.microsoft.com/ai
-- Meta AI – https://ai.meta.com
-- NVIDIA AI – https://www.nvidia.com/ai
-- Amazon AWS AI – https://aws.amazon.com/ai
+**Product engineering:** Full-stack web applications, APIs, PostgreSQL, Redis, product analytics, testing, and deployment.
 
-### Accelerators
-- Y Combinator – https://www.ycombinator.com
-- Techstars – https://www.techstars.com
-- NVIDIA Inception – https://www.nvidia.com/inception
+**AI engineering:** Python, NLP, LLM applications, RAG, agent workflows, LangChain, LangGraph, OpenAI and Anthropic integrations.
 
-### Venture Capital (AI-Focused)
-- Andreessen Horowitz (a16z) – https://a16z.com
-- Sequoia Capital – https://www.sequoiacap.com
-- Index Ventures – https://www.indexventures.com
-- Greylock – https://greylock.com
-- Coatue – https://www.coatue.com
-- Radical Ventures – https://radical.vc
+**Cloud and delivery:** AWS, Docker, CI/CD, monitoring, security considerations, performance, and operational troubleshooting.
 
----
+**Model research:** PyTorch, Transformers, fine-tuning and LoRA, quantization, benchmarking, and inference-system trade-offs.
 
-## Thought Leadership & Continuous Learning
+My aim is not to collect tools. It is to understand where each one fits, what it costs to operate, and whether it helps a team deliver a better product.
 
-- Two Minute Papers – https://www.youtube.com/@TwoMinutePapers
-- DeepLearning.AI – https://www.deeplearning.ai
-- Lex Fridman Podcast – https://lexfridman.com/podcast
-- Hugging Face Blog – https://huggingface.co/blog
+## Connect
 
----
+I am interested in engineering-management and technical-leadership roles where building strong teams and building useful products are equally important.
 
-## What I Bring to Organizations
-
-- Ownership of complex AI systems end-to-end
-- Production-first engineering mindset
-- Investor-aware technical decision-making
-- Ability to scale systems and teams
-- Clear bridge between research, engineering, and business
-
----
-
-## Collaboration & Opportunities
-
-Open to:
-- Senior / Staff / Principal AI leadership roles
-- High-impact AI platform initiatives
-- Advisory collaboration on agentic AI systems
-- Complex NLP & LLM infrastructure challenges
-
-Contact via GitHub or professional networks.
+[LinkedIn](https://www.linkedin.com/in/ankushmulkar/) · [Portfolio](https://www.ankushmulkar.com/) · [Vertical Combinator](https://www.verticalcombinator.com/)
