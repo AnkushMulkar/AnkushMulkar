@@ -1,99 +1,161 @@
 # Ankush Mulkar
 
-### Engineering Manager · AI Systems Builder
+<p align="left">
+  <strong>Engineering Manager · 0→1 Product Builder · AI Systems Architect</strong><br>
+  <em>Bridging technical systems design, product strategy, and high-performing engineering teams.</em>
+</p>
 
-I work at the intersection of engineering leadership, product development, and AI research.
+<p align="left">
+  <a href="https://www.linkedin.com/in/ankushmulkar/"><img src="https://img.shields.io/badge/LinkedIn-Ankush%20Mulkar-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://www.ankushmulkar.com/"><img src="https://img.shields.io/badge/Portfolio-ankushmulkar.com-111827?style=flat-square&logo=google-chrome" alt="Portfolio" /></a>
+  <a href="https://www.ankushmulkar.com/projects"><img src="https://img.shields.io/badge/Projects-Architecture%20Portfolio-2563eb?style=flat-square" alt="Projects" /></a>
+  <a href="https://www.verticalcombinator.com/"><img src="https://img.shields.io/badge/Founder-Vertical%20Combinator-475569?style=flat-square" alt="Vertical Combinator" /></a>
+</p>
 
-At [AllyNerds](https://allynerds.com/), I progressed from AI Engineer to Technical Lead to Engineering Manager, leading a five-person engineering team and helping turn product priorities into architecture, delivery, and production operations.
+---
 
-I am also the founder of [Vertical Combinator](https://www.verticalcombinator.com/), a practical learning environment built around projects, feedback, and real-world problem-solving. Alongside product work, I independently explore foundation models, efficient inference, and the engineering required to make AI systems useful.
+## 🧭 Executive Overview
 
-[Portfolio](https://www.ankushmulkar.com/) · [Projects](https://www.ankushmulkar.com/projects) · [LinkedIn](https://www.linkedin.com/in/ankushmulkar/)
+I work at the intersection of **engineering leadership**, **product discovery**, and **applied AI systems**. 
 
-## What I build and lead
+Rather than treating management and engineering as separate disciplines, I believe the best technical leaders understand the complete system lifecycle: from user empathy and product requirements, down to distributed APIs, model inference latency, and team delivery velocity.
 
-My work spans more than one part of the technology stack:
+- **Engineering Leadership:** Scaled from AI Engineer → Tech Lead → Engineering Manager at [AllyNerds](https://allynerds.com/), managing a 5-person engineering team, running sprint cadences, hiring, and partnering with executive leadership on company-wide tech delivery.
+- **Product Craft:** Founder of [Vertical Combinator](https://www.verticalcombinator.com/), designing product workflows, learning loops, and platforms built around practical problem solving.
+- **Technical Rigor:** Designing resilient full-stack web platforms, cost-effective LLM architectures, and telemetry-backed observability engines.
 
-- **Engineering teams:** Planning, technical direction, hiring, coaching, performance responsibility, and cross-functional execution.
-- **Web products:** User workflows, frontend and backend delivery, APIs, databases, testing, security, and releases.
-- **AI systems:** LLM applications, RAG, agent workflows, NLP, evaluation, and model-related trade-offs.
-- **Cloud and operations:** AWS infrastructure, Docker, CI/CD, monitoring, reliability, performance, and cost.
-- **Product and business:** Roadmaps, user feedback, analytics, growth priorities, and translating ambiguous problems into work a team can deliver.
+> *"A technically impressive feature is a liability if users cannot understand it, the team cannot sustainably maintain it, or the business cannot justify its operating unit economics."*
 
-I care about the connections between these areas. A technically impressive feature is not enough if users cannot understand it, the team cannot maintain it, or the business cannot justify operating it.
+---
 
-## Work
+## 🏛️ Three Distinct Contributions & Pillars
 
-### AllyNerds — engineering management and product delivery
+Below are the three core facets of my work, balancing engineering management, entrepreneurial product execution, and deep technical exploration:
 
-At AllyNerds, my scope grew from implementing AI capabilities to guiding engineering across the product. I work with the Founder and CEO on priorities and lead execution across application engineering, AI, data, infrastructure, deployment, and operations.
+<table>
+<tr>
+<td width="33%" valign="top">
 
-My management work includes leading a five-person team, managing direct reports, participating in hiring and performance decisions, coaching engineers, and setting technical direction. I remain involved in architecture and delivery decisions, including trade-offs among speed, reliability, latency, security, and cost.
+### 🏢 01. Enterprise Engineering Leadership
+**[AllyNerds](https://allynerds.com/)** · *AI Engineer → Tech Lead → Engineering Manager*
 
-This is company work; its source code and internal documents are private. See the [public product](https://allynerds.com/) and my [portfolio overview](https://www.ankushmulkar.com/projects).
+**Team & People Management:**
+- Directly led and coached a **5-person multi-disciplinary engineering team** across frontend, backend, AI, and cloud operations.
+- Owned hiring pipelines, technical interviews, 1-on-1 career development, sprint planning, and performance management.
+- Fostered psychological safety, blameless postmortems, and high accountability.
 
-### Vertical Combinator — founder and product builder
+**Architecture & Delivery:**
+- Partnered directly with CEO & Founder to translate business objectives into production roadmaps and architectural specifications.
+- Guided full-stack delivery: user workflows, REST APIs, PostgreSQL data layers, and AWS deployments.
+- Balanced trade-offs between feature velocity, system uptime, security safeguards, and infrastructure costs.
 
-I founded [Vertical Combinator](https://www.verticalcombinator.com/) to connect learning with practical work. Its approach centres on building projects, receiving feedback, and developing the ability to solve real problems—not simply completing courses.
+</td>
+<td width="33%" valign="top">
 
-My work brings together product direction, learning-path design, platform development, mentoring, and building a community around practical skills. It gives me a second perspective on engineering leadership: defining a problem, shaping a product, building the environment around it, and improving it as people use it.
+### 🚀 02. Founder & 0→1 Product Building
+**[Vertical Combinator](https://www.verticalcombinator.com/)** · *Founder & Lead Architect*
 
-### Independent foundation-model research
+**Product Vision & 0→1 Execution:**
+- Conceived, architected, and shipped a project-first learning platform centered on real-world engineering problem solving.
+- Researched user friction, defined intuitive UX journeys, and iterated rapidly based on direct member feedback.
+- Combined product direction, platform engineering, and community building into a self-sustaining ecosystem.
 
-I study how model and inference choices affect real applications. My areas of exploration include transformer architectures, fine-tuning and LoRA, quantization, benchmarking, serving approaches such as vLLM, and the trade-offs among quality, latency, memory, and cost.
+**Mentorship & Coaching:**
+- Personally mentored engineers on production architecture, system design, and practical software delivery.
+- Designed structured technical curriculum connecting foundational concepts with production-grade execution.
 
-I treat this as **independent research and experimentation**, not as a claim of published academic research. The goal is to connect model-level understanding with better product and engineering decisions. My [portfolio](https://www.ankushmulkar.com/projects) has an overview of this work.
+</td>
+<td width="33%" valign="top">
 
-## Public engineering projects
+### 🔬 03. Applied AI & Systems Research
+**Independent Foundation-Model Exploration** · *Efficiency & Scale*
 
-### [AgentSentinel AI](https://github.com/AnkushMulkar/agent-sentinel-ai)
-**AI reliability, guardrails, and cost visibility — portfolio prototype**
+**Inference & Systems Rigor:**
+- Empirical research on how model parameter scale and serving architectures impact real-world application performance.
+- Benchmarked transformer architectures, quantization techniques (AWQ, GPTQ), and high-throughput vLLM serving.
+- Evaluated trade-offs across inference latency, memory bandwidth, accuracy degradation, and serving unit economics.
 
-A full-stack exploration of what teams need to understand and control when using AI agents: execution traces, sensitive-data handling, failure visibility, and model usage costs. It combines a React/TypeScript interface with a Node.js API and demonstration data.
+**Agentic Reliability:**
+- Explored multi-agent orchestration, DAG execution flows, OpenTelemetry flamegraph tracing, and hallucination guardrail interception.
+- Focus: Making AI outputs deterministic, auditable, and cost-controlled for enterprise production workloads.
 
-The engineering question behind it: **How do we make an agent workflow observable and accountable, rather than judging it only by its final answer?**
+</td>
+</tr>
+</table>
 
-### [PulseRevOps AI](https://github.com/AnkushMulkar/pulse-revops-ai)
-**B2B SaaS account health and revenue operations — portfolio prototype**
+---
 
-A product-focused exploration of account-risk signals, customer-success workflows, and revenue visibility. It combines a React/TypeScript interface with a Node.js API and sample account data.
+## 🛠️ Featured Open-Source Systems
 
-The product question behind it: **How can usage signals become an understandable decision and a timely action for a customer-success team?**
+Architectural prototypes demonstrating full-stack engineering, system design, and product thinking:
 
-These are self-built demonstrations of architecture and product thinking. Their current APIs use mock data; they are not presented here as live customer deployments.
+| Platform | Domain | Stack | Key Architectural Challenge Solved |
+| :--- | :--- | :--- | :--- |
+| **[AgentSentinel AI](https://github.com/AnkushMulkar/agent-sentinel-ai)** | **AI Observability & Reliability** | React, TypeScript, Node.js, OpenTelemetry, FinOps | Inspecting multi-step agent execution DAGs with flamegraph tracing, intercepting security guardrail breaches, and enforcing real-time token cost routing. |
+| **[PulseRevOps AI](https://github.com/AnkushMulkar/pulse-revops-ai)** | **B2B SaaS Revenue Operations** | React, TypeScript, Node.js, Recharts, Telemetry Radar | Transforming raw product usage telemetry, sentiment shifts, and seat velocity into predictive account health radar and prescriptive churn mitigation workflows. |
 
-## How I think about engineering
+---
 
-### Start with the outcome
+## 🧠 Comprehensive Skills Matrix
 
-I want to know who has the problem, what decision or workflow needs to improve, and how we would recognize progress. Technology selection comes after that.
+### ⚙️ Technical Skills (Architecture & Systems)
 
-### Design the whole system
+| Category | Core Competencies | Technologies & Frameworks |
+| :--- | :--- | :--- |
+| **AI Systems & Agents** | Agentic DAG orchestration, RAG architectures, Evaluation benchmarks, Guardrail interception, Prompt engineering | LangChain, LangGraph, OpenAI API, Anthropic Claude, PyTorch, Hugging Face, Vector Databases |
+| **Model Serving & Inference** | High-throughput batching, Low-latency serving, Quantization (AWQ/GPTQ), LoRA fine-tuning benchmarks | vLLM, Hugging Face Transformers, BitsAndBytes, PEFT |
+| **Full-Stack & Web** | Responsive single-page apps, Component architecture, State management, RESTful APIs, Microservices | React, TypeScript, JavaScript, Python, Node.js, FastAPI, HTML5, Vanilla CSS |
+| **Data & Persistence** | Relational schemas, Query optimization, In-memory caching, Event-driven telemetry, Vector indexing | PostgreSQL, Redis, Vector Databases, JSON Schema validation |
+| **Cloud & DevOps** | Infrastructure provisioning, Container orchestration, Automated CI/CD, Observability & SLIs | AWS (EC2, S3, RDS), Docker, GitHub Actions, OpenTelemetry, Linux / Bash |
 
-A feature crosses boundaries: interface, service, data, AI model, infrastructure, security, and operations. I consider how those pieces interact and who will maintain them.
+### 🎯 Non-Technical & Leadership Skills (People & Product)
 
-### Make trade-offs explicit
+| Category | Core Capabilities | Real-World Application |
+| :--- | :--- | :--- |
+| **Engineering Management** | Team leadership, Hiring loops, 1-on-1s, Career ladders, Performance evaluations, Team health | Led 5-person engineering team at AllyNerds; built a culture of ownership, rigor, and rapid feedback. |
+| **0→1 Product Craft** | User discovery, Roadmap prioritization, PRDs, Workflow mapping, User experience (UX) intuition | Built and launched Vertical Combinator from blank slate to active platform with real user engagement. |
+| **Executive & Business Alignment** | C-suite communication, Business case justification, ROI modeling, Stakeholder management | Collaborated with Founder & CEO on delivery milestones, product trade-offs, and cloud/LLM burn rates. |
+| **Delivery & Operational Rigor** | Agile/Scrum ceremonies, Sprint planning, RFC review processes, Blameless postmortems, Tech debt reduction | Instituted clear PR review standards, streamlined deployment cycles, and protected system uptime. |
+| **FinOps & Resource Strategy** | Cloud cost optimization, Token budget governance, SLA/SLO definition, Capacity planning | Engineered systems that balance latency, throughput, and reliability with viable business margins. |
 
-Engineering decisions affect delivery time, reliability, performance, cost, and future flexibility. I prefer to explain those trade-offs clearly to both engineers and business stakeholders.
+---
 
-### Build a team that can keep improving the product
+## 💡 Engineering & Leadership Operating Principles
 
-Leadership is not only assigning work. It means giving people context, making priorities clear, reviewing decisions, coaching engineers, and creating space for feedback and iteration.
+```
+                      ┌────────────────────────────────────────┐
+                      │        1. Start with the Outcome       │
+                      │   Who is the user? What is the ROI?    │
+                      └──────────────────┬─────────────────────┘
+                                         ▼
+                      ┌────────────────────────────────────────┐
+                      │      2. Architect the Whole System     │
+                      │   UI ↔ API ↔ AI Models ↔ Cloud ↔ Ops   │
+                      └──────────────────┬─────────────────────┘
+                                         ▼
+                      ┌────────────────────────────────────────┐
+                      │      3. Make Trade-offs Explicit       │
+                      │     Velocity vs Latency vs Cost vs SLA │
+                      └──────────────────┬─────────────────────┘
+                                         ▼
+                      ┌────────────────────────────────────────┐
+                      │     4. Empower & Elevate the Team      │
+                      │   Context, clarity, autonomy & growth  │
+                      └────────────────────────────────────────┘
+```
 
-## Technical areas
+1. **Start with the outcome:** Clarify the business objective, who uses the software, and what metric defines success before selecting tools or writing code.
+2. **Design the whole system:** Software is not just code—it spans user interface, API services, database integrity, model inference, security, and cloud operations.
+3. **Make trade-offs explicit:** Articulate technical trade-offs (speed vs. maintainability, latency vs. model depth, cost vs. accuracy) transparently to both engineers and executives.
+4. **Lead with context, not control:** High-performing teams thrive when provided clear priorities, shared architectural context, and psychological safety.
 
-**Product engineering:** Full-stack web applications, APIs, PostgreSQL, Redis, product analytics, testing, and deployment.
+---
 
-**AI engineering:** Python, NLP, LLM applications, RAG, agent workflows, LangChain, LangGraph, OpenAI and Anthropic integrations.
+## 📬 Connect & Collaborate
 
-**Cloud and delivery:** AWS, Docker, CI/CD, monitoring, security considerations, performance, and operational troubleshooting.
+I am open to **Engineering Management**, **Founding Engineer**, and **Technical Leadership** opportunities where engineering excellence, team empowerment, and impactful product delivery are valued.
 
-**Model research:** PyTorch, Transformers, fine-tuning and LoRA, quantization, benchmarking, and inference-system trade-offs.
-
-My aim is not to collect tools. It is to understand where each one fits, what it costs to operate, and whether it helps a team deliver a better product.
-
-## Connect
-
-I am interested in engineering-management and technical-leadership roles where building strong teams and building useful products are equally important.
-
-[LinkedIn](https://www.linkedin.com/in/ankushmulkar/) · [Portfolio](https://www.ankushmulkar.com/) · [Vertical Combinator](https://www.verticalcombinator.com/)
+- 💼 **LinkedIn:** [linkedin.com/in/ankushmulkar](https://www.linkedin.com/in/ankushmulkar/)
+- 🌐 **Portfolio & Case Studies:** [ankushmulkar.com](https://www.ankushmulkar.com/)
+- 🚀 **Vertical Combinator:** [verticalcombinator.com](https://www.verticalcombinator.com/)
+- 📂 **GitHub Profile:** [github.com/AnkushMulkar](https://github.com/AnkushMulkar)
